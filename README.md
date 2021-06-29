@@ -57,7 +57,7 @@ ICSO=
 
 ## Files
 
-1. [Pandas Profiling Report](Report.html)
+1. [Pandas Profiling Report](https://htmlpreview.github.io/?https://github.com/migeruj/SFD_Colombia/blob/main/Report.html)
 2. [Model base](StackedEnsemble_BestOfFamily_AutoML_20210628_223625) trained using [train.csv](train.csv)
 3. Notebooks for [train](Train.ipynb) process of using automl and select the best model, save and [reuse or prediction](Predict.ipynb)
 
